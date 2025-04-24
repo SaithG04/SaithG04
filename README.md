@@ -7,7 +7,7 @@ A mis 21 años, he trabajado con diversas tecnologías que me han permitido enfr
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaithG04&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaithG04&theme=radical&hide_border=true" alt="GitHub Streak" />-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaithG04&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180"/>
 </div>
 
