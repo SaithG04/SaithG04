@@ -53,8 +53,8 @@ A mis 21 años, he trabajado con diversas tecnologías que me han permitido enfr
 - Manejo de comunicación en tiempo real con **WebSockets**  
 - Orquestación de contenedores con **Kubernetes** y despliegue en **OpenShift**  
 - Gestión de contenedores y entornos de producción con **Docker** y **Docker Compose**  
-- Integración de servicios en la nube: **AWS** (EC2, S3, RDS), **Azure**  
-- Administración de bases de datos relacionales (MySQL, SQL Server) y no relacionales (MongoDB, Redis)  
+- Integración de servicios en la nube: **AWS**, **Azure**  
+- Administración de bases de datos relacionales y no relacionales
 - Integración de sistemas de mensajería con **RabbitMQ** y **Kafka**  
 - Versionamiento y colaboraciones con **Git** y **GitHub**
 
