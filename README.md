@@ -17,15 +17,15 @@ A mis 21 años, he trabajado con diversas tecnologías que me han permitido enfr
 
 - **Backend**
   - Java (Spring Boot, Hibernate, JUnit, Mockito)
-  - Node.js (Express.js, whatsapp-web.js, WebSockets)
+  - Node.js (Express.js, WebSockets, Nest)
   - C# (.NET)
   - PHP (Laravel)
   - Python (Flask)
 - **Frontend**
   - HTML5, CSS3, Bootstrap
-  - JavaScript, TypeScript (Angular)
+  - JavaScript, TypeScript (Angular, React)
 - **Bases de datos**
-  - Relacionales: MySQL, SQL Server
+  - Relacionales: PostgreSQL, MySQL, SQL Server, Oracle
   - NoSQL: MongoDB, Redis
 - **Mensajería y Streaming**
   - RabbitMQ, Kafka
@@ -78,12 +78,6 @@ Estoy en constante evolución, explorando nuevas tecnologías y buscando oportun
 
 - **Email:** [isai.quiroga.2004@gmail.com](mailto:isai.quiroga.2004@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/isai-osmar-quiroga-sosa-6844b5322](https://www.linkedin.com/in/isai-osmar-quiroga-sosa-6844b5322/)
-
----
-
-## 🐱 Fun Fact
-
-¡Soy amante de los gatos, la música y tocar el piano! Siempre busco mezclar creatividad en mis desarrollos.
 
 ---
 
