@@ -17,13 +17,13 @@ A mis 21 años, he trabajado con diversas tecnologías que me han permitido enfr
 
 - **Backend**
   - Java (Spring Boot, Hibernate, JUnit, Mockito)
-  - Node.js (Express.js, WebSockets, Nest)
+  - Node.js (Express.js, WebSockets)
   - C# (.NET)
   - PHP (Laravel)
   - Python (Flask)
 - **Frontend**
   - HTML5, CSS3, Bootstrap
-  - JavaScript, TypeScript (Angular, React)
+  - JavaScript, TypeScript (Angular)
 - **Bases de datos**
   - Relacionales: PostgreSQL, MySQL, SQL Server, Oracle
   - NoSQL: MongoDB, Redis
@@ -48,7 +48,7 @@ A mis 21 años, he trabajado con diversas tecnologías que me han permitido enfr
 
 ## 🚀 Habilidades Técnicas
 
-- Diseño e implementación de **microservicios** con Spring Boot y Node.js  
+- Diseño e implementación de **microservicios** con Spring Boot y Express
 - Creación de **APIs RESTful** seguras, eficientes y bien documentadas  
 - Manejo de comunicación en tiempo real con **WebSockets**  
 - Orquestación de contenedores con **Kubernetes** y despliegue en **OpenShift**  
