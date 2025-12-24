@@ -76,8 +76,7 @@ Estoy en constante evolución, explorando nuevas tecnologías y buscando oportun
 
 ## 📫 Cómo Contactarme
 
-- **Email:** [isai.quiroga.2004@gmail.com](mailto:isai.quiroga.2004@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/isai-osmar-quiroga-sosa-6844b5322](https://www.linkedin.com/in/isai-osmar-quiroga-sosa-6844b5322/)
+- **Email:** [saithg04@proton.me](mailto:saithg04@proton.me)  
 
 ---
 
