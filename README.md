@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 Soy **SaithG04**, un **Desarrollador** apasionado por crear aplicaciones robustas y escalables.  
-A mis 21 años, he trabajado con diversas tecnologías que me han permitido enfrentar desafíos complejos en distintos entornos.
+He trabajado con diversas tecnologías que me han permitido enfrentar desafíos complejos en distintos entornos.
 
 ---
 
