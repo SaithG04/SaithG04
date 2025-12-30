@@ -20,7 +20,7 @@ He trabajado con diversas tecnologías que me han permitido enfrentar desafíos 
   - Node.js (Express.js, WebSockets)
   - C# (.NET)
   - PHP (Laravel)
-  - Python (Flask)
+  - Python (Flask, FastAPI)
 - **Frontend**
   - HTML5, CSS3, Bootstrap
   - JavaScript, TypeScript (Angular)
