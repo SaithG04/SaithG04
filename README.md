@@ -90,9 +90,9 @@ I am a software engineer focused on designing robust systems, high-availability 
 ## 📊 GitHub Stats / Estadísticas
 
 <div align="center">
-  <img src="https://github-stats.saithg04.work/api?username=SaithG04&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Stats" width="80%" />
+  <img src="https://github-stats.saithg04.work/api?username=SaithG04&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Stats" width="495" />
   <br/><br/>
-  <img src="https://github-stats.saithg04.work/api/top-langs/?username=SaithG04&theme=tokyonight&count_private=true&hide=html,css,scss&langs_count=6" alt="Languages" width="80%" />
+  <img src="https://github-stats.saithg04.work/api/top-langs/?username=SaithG04&theme=tokyonight&count_private=true&hide=html,css,scss&langs_count=6" alt="Languages" width="495" />
 </div>
 
 ---
