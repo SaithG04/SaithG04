@@ -1,83 +1,105 @@
-# ¡Hola! 👋
+# ¡Hola! / Hi there! I'm SaithG04 👋
 
-Soy **SaithG04**, un **Desarrollador** apasionado por crear aplicaciones robustas y escalables.  
-He trabajado con diversas tecnologías que me han permitido enfrentar desafíos complejos en distintos entornos.
-
----
-
-## 📊 GitHub Stats
 <div align="center">
-    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaithG04&theme=radical&hide_border=true" alt="GitHub Streak" />-->
-    <img src="https://github-readme-stats-mauve-eight-89.vercel.app/api/top-langs/?username=SaithG04&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180"/>
+
+  ### 🚀 Software Engineer | Backend & Full Stack
+  
+  *Desarrollador de Microservicios, Sistemas Reactivos y Aplicaciones Cloud.*  
+  *Building scalable microservices, reactive backend architectures, and cloud solutions.*
+
+  [![](https://img.shields.io/badge/Email-saithg04%40proton.me-purple?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:saithg04@proton.me)
+  [![GitHub Followers](https://img.shields.io/github/followers/SaithG04?style=for-the-badge&logo=github)](https://github.com/SaithG04)
+
 </div>
 
 ---
 
-## 💻 Tecnologías y Herramientas
+## 🌐 Select Language / Selecciona Idioma
 
-- **Backend**
-  - Java (Spring Boot, Hibernate, JUnit, Mockito)
-  - Node.js (Express.js, WebSockets)
-  - C# (.NET)
-  - PHP (Laravel)
-  - Python (Flask, FastAPI)
-- **Frontend**
-  - HTML5, CSS3, Bootstrap
-  - JavaScript, TypeScript (Angular)
-- **Bases de datos**
-  - Relacionales: PostgreSQL, MySQL, SQL Server, Oracle
-  - NoSQL: MongoDB, Redis
-- **Mensajería y Streaming**
-  - RabbitMQ, Kafka
-- **Cloud & DevOps**
-  - AWS, Azure
-  - Docker, Docker Compose
-  - Kubernetes, OpenShift
-- **Otros**
-  - Git, GitHub
-  - Postman, Swagger
-  - Firebase
-  - Linux (desarrollo y administración de servidores)
-  - Jakarta EE, JSP
+- [🇪🇸 Versión en Español](#-versión-en-español)
+- [🇺🇸 English Version](#-english-version)
+
+---
+
+## 💻 Tech Stack & Tools / Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,python,flask,php,laravel,cs,html,css,bootstrap,js,ts,angular,mysql,mongodb,redis,kafka,rabbitmq,aws,azure,docker,kubernetes,openshift,git,postman,firebase,linux" width="100%" alt="Tech Stack"/>
+
+### Languages & Frameworks / Lenguajes y Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,dotnet,cs,python,fastapi,flask,django,php,laravel,js,ts,react,angular,html,css,bootstrap,tailwind" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/Spring_WebFlux-Reactive_Stack-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring WebFlux" />
+
+### Databases, Storage & Messaging / Bases de Datos y Mensajería
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,kafka,rabbitmq" />
+</a>
+
+### Cloud, DevOps & OS / Nube y DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,openshift,nginx,bash,linux" />
+</a>
+
+### Tools, Testing & Quality / Herramientas y Calidad
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,gitlab,postman,firebase,selenium,grafana,prometheus" />
+</a>
+
 </div>
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🇪🇸 Versión en Español
 
-- Diseño e implementación de **microservicios** con Spring Boot y Express
-- Creación de **APIs RESTful** seguras, eficientes y bien documentadas  
-- Manejo de comunicación en tiempo real con **WebSockets**  
-- Orquestación de contenedores con **Kubernetes** y despliegue en **OpenShift**  
-- Gestión de contenedores y entornos de producción con **Docker** y **Docker Compose**  
-- Integración de servicios en la nube: **AWS**, **Azure**  
-- Administración de bases de datos relacionales y no relacionales
-- Integración de sistemas de mensajería con **RabbitMQ** y **Kafka**  
-- Versionamiento y colaboraciones con **Git** y **GitHub**
+### 🎯 Sobre Mí
+Soy un ingeniero de software enfocado en diseñar sistemas robustos, microservicios de alta disponibilidad y arquitectura de software moderna.
 
----
+- **Áreas Clave:** Desarrollo Backend, Sistemas Reactivos, Arquitectura Orientada a Eventos y Cloud Infrastructure.
+- **Abierto a:** Colaboraciones técnicas, proyectos de ingeniería de alto impacto y contribuciones Open Source.
 
-## 🛠 Gestión de Proyectos y Colaboración
-
-- Metodologías ágiles (*SCRUM*)  
-- **Jira** para seguimiento de tareas y planificación de sprints  
-- Participación en proyectos de código abierto y trabajo en equipo  
+### 🚀 Habilidades Técnicas
+- **Programación Reactiva y Microservicios:** Desarrollo de aplicaciones no bloqueantes con Spring WebFlux y Project Reactor, junto con el ecosistema Spring Boot, Express.js y NestJS.
+- **Diseño de APIs y Seguridad:** Creación e integración de APIs RESTful, comunicación en tiempo real con WebSockets y autenticación OAuth 2.0 / OpenID Connect utilizando Keycloak y JWT.
+- **Sistemas Orientados a Eventos:** Procesamiento asíncrono de mensajes y streaming con Apache Kafka y RabbitMQ.
+- **Nube y Orquestación:** Despliegue de contenedores y gestión de entornos con Docker, Kubernetes y Red Hat OpenShift sobre AWS y Azure.
+- **Bases de Datos:** Modelado y optimización en motores relacionales (PostgreSQL, MySQL, Oracle, SQL Server), NoSQL (MongoDB, Redis) y almacenamiento de objetos (MinIO, S3).
+- **Calidad y Observabilidad:** Pruebas unitarias y de integración (JUnit, Mockito, Jest, Selenium), análisis de código con SonarQube y monitoreo con Prometheus y Grafana.
 
 ---
 
-## 🌱 Siempre Aprendiendo
+## 🇺🇸 English Version
 
-Estoy en constante evolución, explorando nuevas tecnologías y buscando oportunidades para crear soluciones innovadoras y escalables.
+### 🎯 About Me
+I am a software engineer focused on designing robust systems, high-availability microservices, and modern web application ecosystems.
+
+- **Core Specialties:** Backend Development, Reactive Systems, Event-Driven Architecture, and Cloud Infrastructure.
+- **Open for:** Technical Collaboration, High-Impact Engineering Projects, and Open Source Contributions.
+
+### 🚀 Key Technical Expertise
+- **Reactive Programming & Microservices:** Implementation of non-blocking applications using Spring WebFlux and Project Reactor, alongside Spring Boot, Express.js, and NestJS ecosystems.
+- **API Design & Security:** RESTful API development, real-time messaging with WebSockets, and OAuth 2.0 / OpenID Connect integrations via Keycloak and JWT.
+- **Event-Driven Systems:** Asynchronous message processing and stream processing with Apache Kafka and RabbitMQ.
+- **Cloud & Orchestration:** Container management and deployment using Docker, Kubernetes, and Red Hat OpenShift on AWS and Azure.
+- **Databases & Persistence:** Design and optimization for relational engines (PostgreSQL, MySQL, Oracle, SQL Server), NoSQL (MongoDB, Redis), and Object Storage (MinIO, S3).
+- **Quality & Observability:** Unit and integration testing (JUnit, Mockito, Jest, Selenium), code quality with SonarQube, and monitoring via Prometheus and Grafana.
 
 ---
 
-## 📫 Cómo Contactarme
+## 📊 GitHub Stats / Estadísticas
 
-- **Email:** [saithg04@proton.me](mailto:saithg04@proton.me)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaithG04&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaithG04&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" width="48%" />
+</div>
 
 ---
 
-**¡Conecta conmigo y construyamos algo increíble!**  
+## 📫 Contact / Contacto
+
+- **Email:** [saithg04@proton.me](mailto:saithg04@proton.me)
+
+<div align="center">
+  <sub><i>"Continuous learning and clean code / Aprendizaje continuo y código limpio."</i></sub>
+</div>
